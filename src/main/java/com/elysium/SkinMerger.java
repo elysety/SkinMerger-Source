@@ -1,5 +1,5 @@
 
-
+//self contained 100% pure ong!
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Component;
