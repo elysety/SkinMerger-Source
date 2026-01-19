@@ -6,3 +6,5 @@ The compiled release JAR is published separately here:
 👉 https://github.com/elysety/Skin-Merger
 
 Discord: https://discord.gg/J9n8xKDtjT
+
+The OOP in this is so bad I know!
