@@ -2,6 +2,7 @@
 //self contained 100% pure ong!
 // This feels like body Shaming of Java!!
 //Was an experiment!
+//Also I was not the one manually parsed JSON using Regex
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Component;
