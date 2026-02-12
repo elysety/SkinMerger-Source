@@ -1,5 +1,7 @@
 
 //self contained 100% pure ong!
+// This feels like body Shaming of Java!!
+//Was an experiment!
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Component;
